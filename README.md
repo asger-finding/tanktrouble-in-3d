@@ -1,6 +1,9 @@
-# TankTrouble in 3D
+<div align="center">
+  <img width="30%" src="https://github.com/asger-finding/tanktrouble-in-3d/raw/main/.github/viewport-example.png">
+  <img width="30%" src="https://github.com/asger-finding/tanktrouble-in-3d/raw/main/.github/render-example.png">
 
-![image](https://github.com/asger-finding/tanktrouble-in-3d/assets/49583904/bd6b2b8b-6035-4229-af2b-4cf623e2ea4c)
+  <h1>TankTrouble in 3D</h1>
+</div>
 
 This project attempts to create a faithful clone of the game TankTrouble in blender, for making cool ray-traced renders.
 
