@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="30%" src="https://github.com/asger-finding/tanktrouble-in-3d/raw/main/.github/viewport-example.png">
-  <img width="30%" src="https://github.com/asger-finding/tanktrouble-in-3d/raw/main/.github/render-example.png">
+  <img width="45%" src="https://github.com/asger-finding/tanktrouble-in-3d/raw/main/.github/viewport-example.png">
+  <img width="45%" src="https://github.com/asger-finding/tanktrouble-in-3d/raw/main/.github/render-example.png">
 
   <h1>TankTrouble in 3D</h1>
 </div>
